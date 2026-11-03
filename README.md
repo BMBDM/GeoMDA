@@ -2,16 +2,8 @@
 
 GeoMDA transfers drug-response knowledge from labeled bulk RNA-seq source domains to an unlabeled scRNA-seq target domain. It combines Grassmann manifold geometry and geodesic flow kernel (GFK) representations with dynamic distribution alignment (DDA), then fuses source-specific predictions using transferability-guided source weights.
 
-
-## Model Architecture
-
 ![Overview of GeoMDA framework.](Fig_framework.png)
 
-1. **Geometric adaptation:** PCA and GFK align source and target subspaces.
-2. **Distribution alignment:** DDA reduces marginal and conditional distribution gaps.
-3. **Multi-source fusion:** transferability-based weights combine source predictions while accounting for source redundancy.
-
-The final prediction is the weighted sum of source probabilities. Target labels are used only for evaluation.
 
 ## Installation Guide
 - Clone the repository:
