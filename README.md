@@ -45,8 +45,3 @@ nohup env CUDA_VISIBLE_DEVICES=1 python experiments/run_multisource_gfk_dda_opti
 
 Use `--help` with a runner to see all options. 
 
-## Citation
-
-If you use GeoMDA, please cite the accompanying manuscript:
-
-Nan Sun, Jiayi Kang, Qi Wu, Xiang Shi, Stephen S.-T. Yau#. GeoMDA: Geometry-aware multi-source domain adap-tation for single-cell drug response prediction. 2026.
