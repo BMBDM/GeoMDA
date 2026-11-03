@@ -1,0 +1,4 @@
+task_name,source_path,target_path
+Etoposide_PC9,/GeoMDA/data/Etoposide/Source_exprs_resp_z.Etoposide_tp4k.tsv,/GeoMDA/data/Etoposide/Target_expr_resp_z.Etoposide_tp4k.tsv
+PLX4720_A375,/GeoMDA/data/PLX4720/Source_exprs_resp_z.PLX4720_tp4k.tsv,/GeoMDA/data/PLX4720/Target_expr_resp_z.PLX4720_tp4k.tsv
+PLX4720_451Lu,/GeoMDA/data/PLX4720_451Lu/Source_exprs_resp_z.PLX4720_451Lu_tp4k.tsv,/GeoMDA/data/PLX4720_451Lu/Target_expr_resp_z.PLX4720_451Lu_tp4k.tsv
