@@ -1,6 +1,6 @@
-# GeoMDA: Geometry-aware multi-source domain adaptation for single-cell drug-response prediction
+# GeoMDA: Geometry-aware multi-source domain adaptation for single-cell drug response prediction
 
-GeoMDA transfers drug-response knowledge from labeled bulk RNA-seq source domains to an unlabeled scRNA-seq target domain. It combines Grassmann manifold geometry and geodesic flow kernel (GFK) representations with dynamic distribution alignment (DDA), then fuses source-specific predictions using transferability-guided source weights.
+GeoMDA transfers drug response knowledge from labeled bulk RNA-seq source domains to an unlabeled scRNA-seq target domain. It combines Grassmann manifold geometry and geodesic flow kernel (GFK) representations with dynamic distribution alignment (DDA), then fuses source-specific predictions using transferability-guided source weights.
 
 ![Overview of GeoMDA framework.](Fig_framework.png)
 
